@@ -4,7 +4,11 @@
 
 <br>
 
-<img align="right" height="270em" src="https://raw.githubusercontent.com/gist/MarceloSFilho/28980cfa84e2989968e3f3d9f7699e24/raw/bb4ebd11d68561138003eddabe83082584940b9c/githubcard.svg"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/MarceloSFilho/28980cfa84e2989968e3f3d9f7699e24/raw/bb4ebd11d68561138003eddabe83082584940b9c/githubcard.svg" height="200em"/>
+</div>
+
+<br>
 
 ### Sobre mim
 
@@ -15,37 +19,21 @@
 
 <img src="https://komarev.com/ghpvc/?username=MarceloSFilho&color=F7A800&style=flat-square&label=Visualizações" alt="Visualizações do Perfil" />
 
-<br><br>
+<br>
 
 ---
 
 ### 🛠 Tecnologias
 
-<div>
-  <img alt="Ruby" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" title="Ruby">
-  <img alt="Rails" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" title="Ruby on Rails">
-  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
-  <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
-  <img alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
-  <img alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL">
-  <img alt="Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="Heroku">
-</div>
+<img alt="Ruby" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" title="Ruby"><img alt="Rails" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" title="Ruby on Rails"><img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"><img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"><img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"><img alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"><img alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL"><img alt="Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="Heroku">
 
-<br>
+<br><br>
 
 ---
 
 ### 🌐 Redes Sociais
 
-<div>
-  <a href="https://www.linkedin.com/in/marcelomanoelf/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/MarceloSFilho" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/marcelomanoelf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/MarceloSFilho" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br>
 
