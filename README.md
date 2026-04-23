@@ -1,13 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Olá%2C+sou+o+Marcelo!+👋;Full+Stack+Ruby+on+Rails+Dev;Apaixonado+por+código+limpo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Oi%2C+sou+o+Marcelo+Manoel!+👋" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="foto.jpg" height="250" style="border-radius: 50%" />
 </div>
 
 <br>
 
 <div align="center">
 
-🔶 Desenvolvedor **Full Stack Ruby on Rails**  
-🚀 Construindo aplicações web robustas e eficientes  
+🔶 Desenvolvedor **Ruby**  
 💬 **Ruby · Rails · JavaScript · PostgreSQL · HTML · CSS**  
 🌎 Brasil
 
